@@ -4,3 +4,4 @@ mi
 apple
 samsung
 one+
+nokia
